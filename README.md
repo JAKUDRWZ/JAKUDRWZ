@@ -16,16 +16,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Stack-Java%20%2F%20C%23%20%2F%20Web-09050D?style=for-the-badge&logo=codeforces&logoColor=F2A111" alt="Main stack" />
-  <img src="https://img.shields.io/badge/Workflow-Build%20%C2%B7%20Document%20%C2%B7%20Publish-09050D?style=for-the-badge&logo=git&logoColor=F2A111" alt="Workflow" />
+  <img src="https://img.shields.io/badge/Interests-Code%20%C2%B7%20Games%20%C2%B7%20Art-09050D?style=for-the-badge&logo=git&logoColor=F2A111" alt="Interests" />
 </p>
 
 ---
 
 ## About
 
-I'm a **Multiplatform Application Development** student focused on building clean, structured and well-documented projects.
+I'm Jacobo, a **Multiplatform Application Development (DAM)** student interested in programming, game development and creative work.
 
-My work is currently centered around application development, web projects, Unity gamedev and technical portfolio pieces.
+I work mostly with **Java** for applications and **Unity/C#** for games. I also enjoy drawing, 3D art and music, so I'm drawn to projects where the technical and creative sides come together.
 
 ---
 
@@ -37,7 +37,6 @@ My work is currently centered around application development, web projects, Unit
   <img src="https://img.shields.io/badge/Java-09050D?style=for-the-badge&logo=openjdk&logoColor=F2A111" alt="Java" />
   <img src="https://img.shields.io/badge/C%23-09050D?style=for-the-badge&logo=csharp&logoColor=F2A111" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-09050D?style=for-the-badge&logo=javascript&logoColor=F2A111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-09050D?style=for-the-badge&logo=typescript&logoColor=F2A111" alt="TypeScript" />
   <img src="https://img.shields.io/badge/SQL-09050D?style=for-the-badge&logo=mysql&logoColor=F2A111" alt="SQL" />
   <img src="https://img.shields.io/badge/Python-09050D?style=for-the-badge&logo=python&logoColor=F2A111" alt="Python" />
 </p>
@@ -65,11 +64,10 @@ My work is currently centered around application development, web projects, Unit
 
 ## Current Work
 
-- Building a personal portfolio with **Astro**, focused on bilingual content, responsive layout and project documentation.
-- Developing **Unity projects**, from WebGL builds to more complete gameplay experiences.
-- Working on **application development projects** with Java, SQL and web technologies.
-- Improving my workflow around **project structure, maintainability, publishing and documentation**.
-- Organizing my development ecosystem around **GitHub, itch.io, Newgrounds and a personal website**.
+- Developing **Kweeper**, a 2D Unity game built around grid-based exploration, digging and resource extraction.
+- Building my **personal website** with Astro to bring together programming projects, games and creative work.
+- Working on **Java applications** and experimenting with databases, interfaces and web development.
+- Designing gameplay mechanics, visuals and other parts of my own projects, not just the code behind them.
 
 ---
 
@@ -95,39 +93,39 @@ My work is currently centered around application development, web projects, Unit
 
 | Area | Current Direction |
 |---|---|
-| **Application Development** | Building structured projects with Java, OOP, maintainable logic and clear separation of responsibilities. |
-| **Web Development** | Working with Astro, TypeScript, responsive CSS and content-driven static websites. |
-| **Game Development** | Developing Unity/C# projects, from small WebGL builds to more complete gameplay systems. |
-| **Databases & Data** | Practicing SQL, relational models, data organization and structured information for applications. |
-| **Software Design** | Improving how I plan, organize and document projects before turning them into code. |
+| **Application Development** | Java applications, object-oriented programming, file handling and desktop interfaces. |
+| **Web Development** | Building my website with Astro and working with HTML, CSS and JavaScript. |
+| **Game Development** | Developing Kweeper with Unity and C#, including gameplay mechanics, controls and UI. |
+| **Databases & Data** | Working with SQL, relational data and how applications store and use information. |
+| **Software Design** | Planning mechanics and features, organizing projects and keeping track of design decisions. |
 
 ---
 
 ## Featured Work
 
-### Personal website
+### Kweeper
 
-Bilingual portfolio built with **Astro**, designed as a central hub for technical projects, games, art and online platforms.
+A 2D game made with **Unity and C#**, combining grid-based exploration with digging, resource extraction and risk-based decisions.
 
-**Stack:** Astro · TypeScript · CSS · Markdown  
+**Stack:** Unity · C#  
 **Status:** In development
 
-### Systemik
+### Personal website
 
-Interactive software architecture playground focused on visual system design, component relationships and architectural exploration.
+A portfolio built with **Astro** to bring my programming projects, games and creative work into one place.
 
-**Stack:** HTML · CSS · JavaScript  
+**Stack:** Astro · HTML · CSS  
 **Status:** In development
 
 ---
 
 ## Development Principles
 
-- Clear structure before clever solutions.
-- Features should be understandable, usable and maintainable.
-- Scope should stay small enough to finish properly.
-- A project should work well before it grows bigger.
-- Documentation should explain decisions, not just features.
+- Understand what I'm building and why it works.
+- Keep code readable without making things more complicated than they need to be.
+- Give gameplay, visuals and usability the attention they deserve.
+- Experiment with ideas and change direction when something isn't working.
+- Document useful decisions so I can pick a project back up later.
 
 ---
 
@@ -137,7 +135,7 @@ Interactive software architecture playground focused on visual system design, co
   <img src="https://img.shields.io/badge/Portfolio-Astro%20%2B%20TypeScript-F2A111?style=for-the-badge&logo=astro&logoColor=F2A111&labelColor=09050D" alt="Portfolio" />&nbsp;
   <img src="https://img.shields.io/badge/Appdev-Java%20%2F%20SQL-F2A111?style=for-the-badge&logo=openjdk&logoColor=F2A111&labelColor=09050D" alt="Application Development" />&nbsp;
   <img src="https://img.shields.io/badge/GameDev-Unity%20%2B%20C%23-F2A111?style=for-the-badge&logo=unity&logoColor=F2A111&labelColor=09050D" alt="Game Development" />&nbsp;
-  <img src="https://img.shields.io/badge/Docs-README%20%2B%20Structure-F2A111?style=for-the-badge&logo=readthedocs&logoColor=F2A111&labelColor=09050D" alt="Documentation" />
+  <img src="https://img.shields.io/badge/Creative-Art%20%2B%20Audio-F2A111?style=for-the-badge&logo=paintbrush&logoColor=F2A111&labelColor=09050D" alt="Art and audio" />
 </p>
 
 ---
